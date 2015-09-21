@@ -14,7 +14,7 @@ VS2015 x64 Native Tools Command Promptより
 > mkdir build
 > cd build
 > cmake -G "Visual Studio 14 2015 Win64" ..
-> msbuild HelloDX12 /m:9
+> msbuild HelloDX12.sln /m:9
 ```
 
 ### Ninja
